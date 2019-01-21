@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Shopify-Web-Engineer-Challenge/static/css/main.784a6b2b.chunk.css"
   },
   {
-    "revision": "eb8a6306663081a3ea77c1ddc3d4882b",
+    "revision": "d995e984efa50b523d944f4866b028b1",
     "url": "/Shopify-Web-Engineer-Challenge/index.html"
   }
 ];
