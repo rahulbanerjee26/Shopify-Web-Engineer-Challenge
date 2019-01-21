@@ -1,0 +1,46 @@
+.header{
+ /*
+ source : https://mycolor.space/gradient?ori=to+right+top&hex=%23051937&hex2=%2333A622&sub=1
+  */
+  background-image: linear-gradient(to right top, #051937, #003d66, #006378, #008760, #33a622);
+  color: white;
+  margin-top: 0%;
+  height: 100px;
+  width:100%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchBar{
+  margin: 2%;
+  width: 96%;
+}
+
+.notfav{
+  font-size: 1em;
+   color: rgb(146, 148, 141);
+  background-color: white;
+  border-style: none;
+}
+
+.fav{
+  font-size: 1em;
+  color: rgb(40, 215, 66);
+  background-color: white;
+  background-color: white;
+  border-style: none;
+}
+
+.display{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.left{
+  width: 50%;
+}
+.right{
+  width: 50%
+}
