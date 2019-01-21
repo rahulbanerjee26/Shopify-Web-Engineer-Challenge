@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Shopify-Web-Engineer-Challenge/static/js/runtime~main.514f3e79.js"
   },
   {
-    "revision": "a8037049404f98e7cea5",
-    "url": "/Shopify-Web-Engineer-Challenge/static/js/main.a8037049.chunk.js"
+    "revision": "1bc31f652caa9ff86d49",
+    "url": "/Shopify-Web-Engineer-Challenge/static/js/main.1bc31f65.chunk.js"
   },
   {
     "revision": "3bba5fadb7d3b0f56462",
     "url": "/Shopify-Web-Engineer-Challenge/static/js/1.3bba5fad.chunk.js"
   },
   {
-    "revision": "a8037049404f98e7cea5",
+    "revision": "1bc31f652caa9ff86d49",
     "url": "/Shopify-Web-Engineer-Challenge/static/css/main.784a6b2b.chunk.css"
   },
   {
-    "revision": "8a6575f711025ee426d9a9de373ccf3b",
+    "revision": "cab3401183c2f9e58c8b208c703f3356",
     "url": "/Shopify-Web-Engineer-Challenge/index.html"
   }
 ];
