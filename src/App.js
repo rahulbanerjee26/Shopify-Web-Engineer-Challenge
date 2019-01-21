@@ -88,10 +88,15 @@ Change (e){
        let Keys = item.keywords.split(" ");
        Keys = Keys.join();
        Keys = Keys.replace(/[^a-z0-9]/gi,'');
+       query = query.replace(/[^a-z0-9]/gi,'');
          if(Keys.includes(query.toLowerCase()) && query !== "" && !filteredItems.includes(item)){
           filteredItems.push(item);
         }
      })
+     if(filteredItems ===  undefined || filteredItems.length === 0 && query !== "")
+      alert("No match found. Try searching for keywords like takeout,plastic,water etc")
+    if(query === "")
+      alert("Please enter a value");
      this.setState({
        filteredItems : filteredItems
      })
